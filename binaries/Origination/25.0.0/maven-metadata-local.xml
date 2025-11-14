@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata modelVersion="1.1.0">
+  <groupId>com.temenos</groupId>
+  <artifactId>Origination</artifactId>
+  <versioning>
+    <lastUpdated>20250325233500</lastUpdated>
+    <snapshot>
+      <localCopy>true</localCopy>
+    </snapshot>
+    <snapshotVersions>
+      <snapshotVersion>
+        <extension>pom</extension>
+        <value>25.0.0</value>
+        <updated>20250325233500</updated>
+      </snapshotVersion>
+      <snapshotVersion>
+        <extension>jar</extension>
+        <value>25.0.0</value>
+        <updated>20250325233500</updated>
+      </snapshotVersion>
+    </snapshotVersions>
+  </versioning>
+  <version>25.0.0</version>
+</metadata>
